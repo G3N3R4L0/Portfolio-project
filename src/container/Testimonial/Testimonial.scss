@@ -6,7 +6,7 @@
 
 .app__testimonial-item {
     width: 100%;
-    height: 60%;
+    height: 65%;
     min-height: 320px;
     background-color: var(--white-color);
     position: relative;
@@ -32,7 +32,7 @@
 
         img {
             width: 300px;
-            height: 300px;
+            height: 400px;
             object-fit: cover;
         }
 
@@ -50,8 +50,8 @@
         width: 100%;
 
         img {
-            width: 200px;
-            height: 200px;
+            width: 300px;
+            height: 400px;
         }
     }
 }
